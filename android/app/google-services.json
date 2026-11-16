@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147711464783",
+    "project_id": "mccapp-66a46",
+    "storage_bucket": "mccapp-66a46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147711464783:android:7cab4238bcc9db70be213a",
+        "android_client_info": {
+          "package_name": "com.example.mcc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX3gY6qlNdowk-OByw-F29D2DHCQxuA1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
